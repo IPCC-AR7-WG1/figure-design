@@ -1,17 +1,17 @@
-# IPCC AR7 Figure Template Repository
+# IPCC AR7 Figure Example
 
-This repository provides a **code template for creating IPCC AR7 figures**. It is designed to help authors standardise the visual appearance of figures, including size, titles, color bars, structure, and overall formatting.
+This repository provides **code example for creating IPCC AR7 figures**. It is designed to help authors standardise the visual appearance of figures, including size, titles, color bars, structure, and overall formatting.
 
  ## Installation
 
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/figure-template.git
-cd figure-template
+git clone <>
+cd <>
 ```
 
-Install the required dependencies (e.g., matplotlib, seaborn):
+Install the required dependencies (e.g., matplotlib):
 
 ```pip install -r requirements.txt```
 
