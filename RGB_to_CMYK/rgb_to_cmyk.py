@@ -1,7 +1,7 @@
 """
-svg_to_cmyk.py
+rgb_to_cmyk.py
 
-Utilities to convert SVG files to CMYK PDF using CairoSVG + Ghostscript.
+Utilities to convert RGB SVG files to CMYK PDF using CairoSVG + Ghostscript.
 
 Features:
 - Single file conversion
@@ -20,9 +20,9 @@ from pathlib import Path
 import cairosvg
 
 
-class SVGToCMYKConverter:
+class RGBToCMYKConverter:
     """
-    A utility class to convert SVG files to CMYK PDFs using CairoSVG and Ghostscript.
+    A utility class to convert RGB SVG files to CMYK PDFs using CairoSVG and Ghostscript.
     """
 
     def __init__(self, gs_path: str | None = None):
