@@ -7,8 +7,8 @@ This repository provides **code example for creating IPCC AR7 figures**. It is d
 Clone the repository to your local machine:
 
 ```bash
-git clone <>
-cd <>
+git clone https://github.com/IPCC-AR7-WG1/figure-design.git
+cd figure-design
 ```
 
 Install the required dependencies (e.g., matplotlib):
