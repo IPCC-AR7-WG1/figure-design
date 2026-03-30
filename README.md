@@ -13,7 +13,7 @@ cd figure-design
 
 Install the required dependencies (e.g., matplotlib):
 
-```pip install -r requirements.txt```
+```conda env create -f environment.yml```
 
 ## Examples
 
