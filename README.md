@@ -13,12 +13,34 @@ cd figure-design
 
 Install the required dependencies (e.g., matplotlib):
 
-```conda env create -f environment.yml```
+```bash
+conda env create -f environment.yml
+conda activate ipcc_figure
+```
 
 ## Examples
 
-1. Single Plot: Simple line or scatter plots with title and axis labels.
+1. Line Plot
+    - `line_plot.ipynb`
+    - color palette for AR5 & AR6, from pyam package
+    - example line plot
 
-2. Multi-Panel Figure: Subplots arranged with consistent spacing and aligned titles.
+2. Map Plot
+    - `one_map.ipynb`
+    - map with standard colormaps, title and legend.
 
-3. Colorbar: Standardized color bar placement and labeling.
+3. Colormaps
+    - The folder continuous_colormaps_rgb_0-1 contains 12 colormaps, each with 256 RGB values in the range [0, 1].
+    - These colormaps are the recommended standard for IPCC AR7 figure visualisations.
+    - Use the function `create_colormap_from_rgb_txt` to load an RGB file:
+
+    ```python
+    def create_colormap_from_txt(filepath, cmap_name="custom_colormap"):
+        """
+        Read RGB values from a text file and create a LinearSegmentedColormap.
+        RGB value shoud be 0-1 range.
+        """
+        rgb_data = np.loadtxt(filepath)
+        colormap = mcolors.LinearSegmentedColormap.from_list(cmap_name, rgb_data)
+        return colormap
+    ```
