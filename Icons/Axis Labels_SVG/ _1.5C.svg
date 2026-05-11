@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16.1 7.94">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #efcbc5;
+      }
+
+      .cls-2 {
+        fill: #e5bbb7;
+      }
+
+      .cls-3 {
+        font-family: ArialNarrow, 'Arial Narrow';
+        font-size: 7px;
+        letter-spacing: -.02em;
+      }
+    </style>
+  </defs>
+  <g>
+    <path class="cls-1" d="M.67.28h14.76c.22,0,.39.18.39.39v6.58c0,.22-.18.39-.39.39H.67c-.22,0-.39-.18-.39-.39V.68c0-.22.18-.39.39-.39Z"/>
+    <path class="cls-2" d="M15.43.57c.06,0,.11.05.11.11v6.58c0,.06-.05.11-.11.11H.67c-.06,0-.11-.05-.11-.11V.67c0-.06.05-.11.11-.11h14.76M15.43,0H.67c-.37,0-.67.3-.67.67v6.58c0,.37.3.67.67.67h14.76c.37,0,.67-.3.67-.67V.67c0-.37-.3-.67-.67-.67h0Z"/>
+  </g>
+  <text class="cls-3" transform="translate(.55 6.41)"><tspan x="0" y="0">1.5°C</tspan></text>
+</svg>
