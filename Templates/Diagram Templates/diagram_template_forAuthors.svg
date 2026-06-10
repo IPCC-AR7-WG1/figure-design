@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 510.24 637.8">
+  <!-- Generator: Adobe Illustrator 30.4.0, SVG Export Plug-In . SVG Version: 2.1.4 Build 226)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #7fbac0;
+        opacity: .35;
+      }
+
+      .st1, .st2, .st3, .st4, .st5 {
+        font-family: ArialNarrow, 'Arial Narrow';
+      }
+
+      .st1, .st3, .st6, .st4, .st5, .st7 {
+        fill: #231f20;
+      }
+
+      .st8, .st3, .st9, .st10, .st6, .st7 {
+        font-size: 9px;
+      }
+
+      .st8, .st11 {
+        fill: #28406d;
+      }
+
+      .st12, .st13, .st14, .st15, .st16, .st17, .st18 {
+        fill: none;
+      }
+
+      .st12, .st13, .st15, .st16, .st18 {
+        stroke: #183a67;
+        stroke-width: 1.42px;
+      }
+
+      .st12, .st13, .st15, .st18 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .st19, .st20 {
+        fill: #183a67;
+      }
+
+      .st13 {
+        stroke-dasharray: 4 4;
+      }
+
+      .st21 {
+        fill: #eb0d8c;
+      }
+
+      .st21, .st4, .st22 {
+        font-size: 10px;
+      }
+
+      .st21, .st22 {
+        font-family: ArialMT, Arial;
+      }
+
+      .st14 {
+        stroke: #5392ce;
+        stroke-width: .71px;
+      }
+
+      .st14, .st23, .st24, .st25, .st16, .st26, .st27, .st28, .st17 {
+        stroke-miterlimit: 10;
+      }
+
+      .st10, .st23, .st24, .st25, .st26, .st27, .st28, .st29 {
+        fill: #fff;
+      }
+
+      .st10, .st30, .st11, .st7 {
+        font-family: ArialNarrow-Bold, 'Arial Narrow';
+      }
+
+      .st10, .st30, .st11, .st7, .st31 {
+        font-weight: 700;
+      }
+
+      .st15 {
+        stroke-dasharray: 4.04 4.04;
+      }
+
+      .st23 {
+        stroke-width: 1.59px;
+      }
+
+      .st23, .st24, .st25, .st26, .st27, .st28 {
+        stroke: #fff;
+      }
+
+      .st24 {
+        stroke-width: 1.34px;
+      }
+
+      .st25 {
+        stroke-width: 1.34px;
+      }
+
+      .st26 {
+        stroke-width: 1.3px;
+      }
+
+      .st27 {
+        stroke-width: 1.25px;
+      }
+
+      .st28 {
+        stroke-width: 1.24px;
+      }
+
+      .st32 {
+        fill: #c8def3;
+        opacity: .5;
+      }
+
+      .st5 {
+        font-size: 11px;
+      }
+
+      .st33 {
+        fill: #5392ce;
+      }
+
+      .st17 {
+        stroke: #e90e8b;
+      }
+
+      .st18 {
+        stroke-dasharray: 4.2 4.2;
+      }
+
+      .st31 {
+        font-family: Arial-BoldMT, Arial;
+        font-size: 14px;
+      }
+
+      .st31, .st22 {
+        fill: #221f1f;
+      }
+
+      .st20 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <g>
+    <text class="st9"><tspan class="st11"><tspan x="105.19" y="220.19">Alternate background colors are possible –when there’s a </tspan></tspan><tspan class="st11"><tspan x="105.19" y="230.99">reason due to the content. Keep the colors light for </tspan></tspan><tspan class="st11" x="105.19" y="241.79">legibility. </tspan><tspan class="st1" x="139.24" y="241.79">Lorem ipsum dolor sit amet, adipiscing orci tristique.</tspan></text>
+    <rect class="st0" x="91.02" y="187.5" width="239.7" height="71.23" rx="8.5" ry="8.5"/>
+    <text class="st6"><tspan class="st30"><tspan x="105.19" y="220.19">Alternate background colors are possible –when there’s a </tspan></tspan><tspan class="st30"><tspan x="105.19" y="230.99">reason due to the content. Keep the colors light for </tspan></tspan><tspan class="st30" x="105.19" y="241.79">legibility. </tspan><tspan class="st2" x="139.24" y="241.79">Lorem ipsum dolor sit amet, adipiscing orci tristique.</tspan></text>
+  </g>
+  <g>
+    <text class="st8" transform="translate(147.75 328.87)"><tspan class="st30"><tspan x="0" y="0">Highlighted box</tspan></tspan><tspan class="st2"><tspan x="0" y="10.8">You can also place a line around </tspan></tspan><tspan class="st2"><tspan x="0" y="21.6">text boxes to highlght them (but this </tspan></tspan><tspan class="st2"><tspan x="0" y="32.4">will need to be scaled separately) </tspan></tspan><tspan class="st2"><tspan x="0" y="43.2">corners have 3mm radius</tspan></tspan></text>
+    <rect class="st32" x="133.57" y="306.98" width="150.77" height="82.39" rx="8.5" ry="8.5"/>
+    <text class="st6" transform="translate(147.75 328.87)"><tspan class="st30"><tspan x="0" y="0">Highlighted box</tspan></tspan><tspan class="st2"><tspan x="0" y="10.8">You can also place a line around </tspan></tspan><tspan class="st2"><tspan x="0" y="21.6">text boxes to highlght them (but this </tspan></tspan><tspan class="st2"><tspan x="0" y="32.4">will need to be scaled separately) </tspan></tspan><tspan class="st2"><tspan x="0" y="43.2">corners have 3mm radius</tspan></tspan></text>
+  </g>
+  <g>
+    <text class="st9"><tspan class="st11"><tspan x="386.57" y="124.55">Another format</tspan></tspan><tspan class="st1"><tspan x="386.57" y="135.35">This text box is setup in </tspan></tspan><tspan class="st1"><tspan x="386.57" y="146.15">another way (indented from </tspan></tspan><tspan class="st1"><tspan x="386.57" y="156.95">edges of text box)</tspan></tspan></text>
+    <rect class="st32" x="376.57" y="106.02" width="120.79" height="62.59" rx="8.5" ry="8.5"/>
+    <text class="st6"><tspan class="st30"><tspan x="386.57" y="124.55">Another format</tspan></tspan><tspan class="st2"><tspan x="386.57" y="135.35">This text box is setup in </tspan></tspan><tspan class="st2"><tspan x="386.57" y="146.15">another way (indented from </tspan></tspan><tspan class="st2"><tspan x="386.57" y="156.95">edges of text box)</tspan></tspan></text>
+  </g>
+  <g>
+    <text class="st9"><tspan class="st11"><tspan x="386.57" y="198.37">Another format - Highlighted </tspan></tspan><tspan class="st1"><tspan x="386.57" y="209.17">You can also place a line </tspan></tspan><tspan class="st1"><tspan x="386.57" y="219.97">around text boxes (but this will </tspan></tspan><tspan class="st1"><tspan x="386.57" y="230.77">need to be scaled separately) </tspan></tspan><tspan class="st1"><tspan x="386.57" y="241.57">corners have 3mm radius</tspan></tspan></text>
+    <rect class="st32" x="376.57" y="179.85" width="120.79" height="72.2" rx="8.5" ry="8.5"/>
+    <text class="st6"><tspan class="st30"><tspan x="386.57" y="198.37">Another format - Highlighted </tspan></tspan><tspan class="st2"><tspan x="386.57" y="209.17">You can also place a line </tspan></tspan><tspan class="st2"><tspan x="386.57" y="219.97">around text boxes (but this will </tspan></tspan><tspan class="st2"><tspan x="386.57" y="230.77">need to be scaled separately) </tspan></tspan><tspan class="st2"><tspan x="386.57" y="241.57">corners have 3mm radius</tspan></tspan></text>
+  </g>
+  <rect class="st32" x="17.28" y="432.16" width="251.25" height="71.37" rx="8.52" ry="8.52"/>
+  <rect class="st33" x="31.16" y="447.95" width="42.33" height="14.94" rx="4.26" ry="4.26"/>
+  <g>
+    <text class="st9" transform="translate(35.85 99.93)"><tspan class="st11"><tspan x="0" y="0">Subheadline in a box</tspan></tspan><tspan class="st1"><tspan x="0" y="10.8">For most purposes, use this type of box. Colors are optimized for </tspan></tspan><tspan class="st1"><tspan x="0" y="21.6">accessibility. Lorem ipsuem placeholder to show how it looks.</tspan></tspan></text>
+    <rect class="st32" x="21.68" y="78.03" width="243.6" height="62.2" rx="8.5" ry="8.5"/>
+    <text class="st6" transform="translate(35.85 99.93)"><tspan class="st30"><tspan x="0" y="0">Subheadline in a box</tspan></tspan><tspan class="st2"><tspan x="0" y="10.8">For most purposes, use this type of box. Colors are optimized for </tspan></tspan><tspan class="st2"><tspan x="0" y="21.6">accessibility. Lorem ipsuem placeholder to show how it looks.</tspan></tspan></text>
+  </g>
+  <g>
+    <line class="st16" x1="50.37" y1="443.01" x2="50.37" y2="131.57"/>
+    <polygon class="st19" points="56.16 438.31 55.13 437.34 50.37 442.46 45.61 437.34 44.57 438.31 50.37 444.55 56.16 438.31"/>
+    <path class="st19" d="M52.23,131.66c0-1.03-.84-1.87-1.87-1.87s-1.86.84-1.86,1.87.84,1.87,1.86,1.87,1.87-.84,1.87-1.87Z"/>
+  </g>
+  <rect class="st26" x="24.1" y="170.74" width="52.64" height="8.14"/>
+  <text class="st4" transform="translate(43.36 177.9)"><tspan x="0" y="0">Yes</tspan></text>
+  <g>
+    <polyline class="st16" points="110.8 252.28 110.8 322.89 102.72 330.97 57.72 330.97 50.37 338.32"/>
+    <path class="st19" d="M108.93,252.38c0-1.03.84-1.87,1.87-1.87s1.86.84,1.86,1.87-.84,1.87-1.86,1.87-1.87-.84-1.87-1.87Z"/>
+  </g>
+  <g>
+    <line class="st16" x1="163.81" y1="443.01" x2="163.81" y2="383.29"/>
+    <polygon class="st19" points="169.61 438.31 168.57 437.34 163.81 442.46 159.05 437.34 158.02 438.31 163.81 444.55 169.61 438.31"/>
+    <path class="st19" d="M165.68,383.39c0-1.03-.84-1.87-1.86-1.87s-1.87.84-1.87,1.87.84,1.87,1.87,1.87,1.86-.84,1.86-1.87Z"/>
+  </g>
+  <g>
+    <polyline class="st13" points="327.02 221.99 347.65 221.99 357.69 230.46 357.69 393.94 348.54 403.09 190.24 403.09 182.96 395.81 182.96 383.29"/>
+    <polygon class="st19" points="331.72 227.79 332.69 226.75 327.57 221.99 332.69 217.23 331.72 216.19 325.48 221.99 331.72 227.79"/>
+    <circle class="st19" cx="182.96" cy="383.39" r="1.87"/>
+  </g>
+  <g>
+    <polyline class="st13" points="357.69 229.71 357.69 119 345.56 106.87 262.89 106.87"/>
+    <polygon class="st19" points="267.59 101.08 268.55 102.12 263.43 106.87 268.55 111.63 267.59 112.67 261.35 106.87 267.59 101.08"/>
+  </g>
+  <g>
+    <circle class="st29" cx="50.37" cy="157.98" r="7.55"/>
+    <path class="st20" d="M50.37,150.43c4.17,0,7.55,3.38,7.55,7.55s-3.38,7.55-7.55,7.55-7.55-3.38-7.55-7.55,3.38-7.55,7.55-7.55ZM53.28,155.23l-3.95,3.95-1.88-1.88c-.29-.29-.75-.29-1.03,0s-.29.75,0,1.03l2.39,2.39c.29.29.75.29,1.03,0l4.46-4.46c.29-.29.29-.75,0-1.03s-.75-.29-1.03,0Z"/>
+  </g>
+  <g>
+    <circle class="st29" cx="110.33" cy="273.06" r="7.55"/>
+    <path class="st20" d="M110.33,265.51c4.17,0,7.55,3.38,7.55,7.55s-3.38,7.55-7.55,7.55-7.55-3.38-7.55-7.55,3.38-7.55,7.55-7.55ZM113.24,270.31l-3.95,3.95-1.88-1.88c-.29-.29-.75-.29-1.03,0s-.29.75,0,1.03l2.39,2.39c.29.29.75.29,1.03,0l4.46-4.46c.29-.29.29-.75,0-1.03s-.75-.29-1.03,0Z"/>
+  </g>
+  <g>
+    <g>
+      <line class="st12" x1="111.09" y1="131.57" x2="111.09" y2="133.57"/>
+      <line class="st18" x1="111.09" y1="137.76" x2="111.09" y2="186.02"/>
+      <line class="st12" x1="111.09" y1="188.12" x2="111.09" y2="190.12"/>
+      <path class="st19" d="M109.22,131.66c0-1.03.84-1.87,1.87-1.87s1.87.84,1.87,1.87-.84,1.87-1.87,1.87-1.87-.84-1.87-1.87Z"/>
+      <polygon class="st19" points="105.29 185.42 106.33 184.46 111.09 189.57 115.84 184.46 116.88 185.42 111.09 191.66 105.29 185.42"/>
+    </g>
+    <rect class="st24" x="97.85" y="171.6" width="28.55" height="8.49"/>
+    <text class="st4" transform="translate(106.89 178.76)"><tspan x="0" y="0">No</tspan></text>
+    <g>
+      <circle class="st29" cx="110.87" cy="157.93" r="7.34"/>
+      <path class="st19" d="M111.09,151.59h0c1.76,0,3.4.68,4.64,1.92,1.24,1.24,1.92,2.88,1.91,4.64,0,1.75-.68,3.4-1.92,4.64-1.24,1.24-2.88,1.92-4.64,1.92s-3.4-.68-4.63-1.91c-2.56-2.56-2.56-6.72,0-9.28,1.24-1.24,2.88-1.92,4.64-1.92M111.09,150.59c-1.94,0-3.87.74-5.34,2.21-2.95,2.95-2.95,7.75,0,10.69,1.47,1.47,3.41,2.21,5.34,2.21s3.87-.74,5.35-2.21c2.95-2.95,2.95-7.74,0-10.69-1.47-1.47-3.41-2.21-5.34-2.21h0Z"/>
+      <path class="st19" d="M114.24,154.36c-.17,0-.33.07-.45.19l-2.7,2.7-2.7-2.7c-.12-.12-.28-.19-.45-.19s-.33.07-.45.19c-.12.12-.19.28-.19.45s.07.33.19.45l2.7,2.7-2.7,2.7c-.24.25-.24.64,0,.89.12.12.28.18.45.18s.33-.07.45-.18l2.7-2.7,2.7,2.7c.12.12.28.18.44.18s.32-.06.44-.18c.24-.25.24-.64,0-.89l-2.7-2.7,2.7-2.7c.12-.12.19-.28.19-.45s-.07-.33-.19-.45c-.12-.12-.28-.18-.44-.19h0Z"/>
+    </g>
+  </g>
+  <g>
+    <line class="st12" x1="154.11" y1="252.49" x2="154.11" y2="254.49"/>
+    <line class="st15" x1="154.11" y1="258.53" x2="154.11" y2="313.1"/>
+    <line class="st12" x1="154.11" y1="315.12" x2="154.11" y2="317.12"/>
+    <circle class="st19" cx="154.11" cy="252.58" r="1.87" transform="translate(-24.14 16.41) rotate(-5.65)"/>
+    <polygon class="st19" points="148.31 312.43 149.35 311.46 154.11 316.58 158.87 311.46 159.9 312.43 154.11 318.66 148.31 312.43"/>
+  </g>
+  <rect class="st25" x="140.87" y="287.14" width="28.55" height="8.5"/>
+  <text class="st4" transform="translate(145.35 294.3)"><tspan x="0" y="0">None</tspan></text>
+  <rect class="st23" x="222.6" y="398.97" width="36.09" height="9.47"/>
+  <text class="st5" transform="translate(222.85 406.84)"><tspan x="0" y="0">Negative</tspan></text>
+  <g>
+    <circle class="st29" cx="153.89" cy="272.84" r="7.34"/>
+    <path class="st19" d="M154.11,266.51h0c1.76,0,3.4.68,4.64,1.92,1.24,1.24,1.92,2.88,1.91,4.64,0,1.75-.68,3.4-1.92,4.64-1.24,1.24-2.88,1.92-4.64,1.92s-3.4-.68-4.63-1.91c-1.24-1.24-1.92-2.88-1.92-4.64s.68-3.4,1.92-4.64c1.24-1.24,2.88-1.92,4.64-1.92M154.11,265.51c-1.94,0-3.87.74-5.34,2.21-2.95,2.95-2.95,7.75,0,10.69,1.47,1.47,3.41,2.21,5.34,2.21s3.87-.74,5.35-2.21c2.95-2.95,2.95-7.74,0-10.69-1.47-1.47-3.41-2.21-5.34-2.21h0Z"/>
+    <path class="st19" d="M157.26,269.28c-.17,0-.33.07-.45.19l-2.7,2.7-2.7-2.7c-.12-.12-.28-.19-.45-.19s-.33.07-.45.19c-.12.12-.19.28-.19.45s.07.33.19.45l2.7,2.7-2.7,2.7c-.24.25-.24.64,0,.89.12.12.28.18.45.18s.33-.07.45-.18l2.7-2.7,2.7,2.7c.12.12.28.18.44.18s.32-.06.44-.18c.24-.25.24-.64,0-.89l-2.7-2.7,2.7-2.7c.12-.12.19-.28.19-.45s-.07-.33-.19-.45c-.12-.12-.28-.18-.44-.19h0Z"/>
+  </g>
+  <text class="st31" transform="translate(18.09 25.07)"><tspan x="0" y="0">A headline summarizes what the audience should </tspan><tspan x="0" y="16.8">understand from the figure (often based on intent) </tspan></text>
+  <text class="st22" transform="translate(18.09 60.12)"><tspan x="0" y="0">Sub headlines can provide technical info or additional context (optional)</tspan></text>
+  <rect class="st27" x="84.01" y="286.99" width="52.64" height="8.66"/>
+  <text class="st4" transform="translate(97.11 294.14)"><tspan x="0" y="0">Agreed</tspan></text>
+  <text/>
+  <g>
+    <circle class="st29" cx="212.6" cy="402.62" r="7.34"/>
+    <path class="st19" d="M212.82,396.28h0c1.76,0,3.4.68,4.64,1.92,1.24,1.24,1.92,2.88,1.91,4.64,0,1.75-.68,3.4-1.92,4.64-1.24,1.24-2.88,1.92-4.64,1.92s-3.4-.68-4.63-1.91c-1.24-1.24-1.92-2.88-1.92-4.64s.68-3.4,1.92-4.64c1.24-1.24,2.88-1.92,4.64-1.92M212.82,395.28c-1.94,0-3.87.74-5.34,2.21-2.95,2.95-2.95,7.75,0,10.69,1.47,1.47,3.41,2.21,5.34,2.21s3.87-.74,5.35-2.21c2.95-2.95,2.95-7.74,0-10.69-1.47-1.47-3.41-2.21-5.34-2.21h0Z"/>
+    <path class="st19" d="M215.97,399.05c-.17,0-.33.07-.45.19l-2.7,2.7-2.7-2.7c-.12-.12-.28-.19-.45-.19s-.33.07-.45.19c-.12.12-.19.28-.19.45s.07.33.19.45l2.7,2.7-2.7,2.7c-.24.25-.24.64,0,.89.12.12.28.18.45.18s.33-.07.45-.18l2.7-2.7,2.7,2.7c.12.12.28.18.44.18s.32-.06.44-.18c.24-.25.24-.64,0-.89l-2.7-2.7,2.7-2.7c.12-.12.19-.28.19-.45s-.07-.33-.19-.45c-.12-.12-.28-.18-.44-.19h0Z"/>
+  </g>
+  <g>
+    <circle class="st29" cx="164.17" cy="403.32" r="7.55"/>
+    <path class="st20" d="M164.17,395.77c4.17,0,7.55,3.38,7.55,7.55s-3.38,7.55-7.55,7.55-7.55-3.38-7.55-7.55,3.38-7.55,7.55-7.55ZM167.08,400.57l-3.95,3.95-1.88-1.88c-.29-.29-.75-.29-1.03,0s-.29.75,0,1.03l2.39,2.39c.29.29.75.29,1.03,0l4.46-4.46c.29-.29.29-.75,0-1.03s-.75-.29-1.03,0Z"/>
+  </g>
+  <rect class="st28" x="137.85" y="415.65" width="52.64" height="8.46"/>
+  <text class="st4" transform="translate(149.81 422.81)"><tspan x="0" y="0">Positive</tspan></text>
+  <g>
+    <text class="st7" transform="translate(21.24 83.74)"><tspan x="0" y="0">STEP 1</tspan></text>
+    <rect class="st33" x="18.47" y="73.18" width="30.97" height="16.15" rx="4.25" ry="4.25"/>
+    <text class="st10" transform="translate(21.24 83.74)"><tspan x="0" y="0">STEP 1</tspan></text>
+  </g>
+  <g>
+    <text class="st7" transform="translate(101.21 204.43)"><tspan x="0" y="0">Another label here</tspan></text>
+    <rect class="st33" x="98.37" y="193.87" width="70.47" height="16.15" rx="4.25" ry="4.25"/>
+    <text class="st10" transform="translate(101.21 204.43)"><tspan x="0" y="0">Another label here</tspan></text>
+  </g>
+  <rect class="st14" x="376.57" y="179.9" width="120.79" height="72.15" rx="8.51" ry="8.51"/>
+  <rect class="st14" x="134.33" y="307.14" width="149.81" height="82.31" rx="8.51" ry="8.51"/>
+  <g>
+    <text class="st3" transform="translate(386.54 269.95)"><tspan x="0" y="0">Text can also have no </tspan><tspan x="0" y="10.8">background color/box</tspan></text>
+    <text class="st3" transform="translate(386.54 269.95)"><tspan x="0" y="0">Text can also have no </tspan><tspan x="0" y="10.8">background color/box</tspan></text>
+  </g>
+  <rect class="st17" x="-.15" y="-325.15" width="510.24" height="283.46"/>
+  <text class="st21" transform="translate(12.97 -305.02)"><tspan x="0" y="0">180mm x 100mm </tspan><tspan x="0" y="12">Optimal dimensions for slides</tspan></text>
+</svg>
